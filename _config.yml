@@ -10,3 +10,6 @@ description: Game Design Course Blog
 collections:
   weeks:
     output: true
+
+minimal_mistakes:
+  include_cached: false

@@ -2,6 +2,7 @@ remote_theme: mmistakes/minimal-mistakes@4.25.1
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache  # 添加这一行
 
 title: My Dev Blog
 description: Game Design Course Blog

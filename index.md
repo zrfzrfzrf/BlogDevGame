@@ -3,7 +3,6 @@ layout: home
 author_profile: true
 ---
 
-# Welcome to My Dev Blog
 
 This blog documents my individual contributions and reflections.
 

@@ -1,9 +1,8 @@
 ---
 layout: home
 author_profile: true
+title: "Welcome to My Dev Blog"
 ---
-
-## Welcome to My Dev Blog
 
 This blog documents my individual contributions and reflections.
 

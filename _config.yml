@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: mmistakes/minimal-mistakes@4.25.1
 
 plugins:
   - jekyll-remote-theme
@@ -10,6 +10,3 @@ description: Game Design Course Blog
 collections:
   weeks:
     output: true
-
-minimal_mistakes:
-  include_cached: false

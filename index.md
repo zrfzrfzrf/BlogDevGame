@@ -1,12 +1,12 @@
-## About me
-This is my individual development blog for the course.
-
+---
+layout: home
+author_profile: true
 ---
 
-## Week 1 – Idea & Brainstorming
-- Initial idea: ...
-- My role: ...
-- Thoughts: ...
+# Welcome to My Dev Blog
 
----
+This blog documents my individual contributions and reflections.
 
+## Entries
+- [Week 1](./weeks/week1/)
+- [Week 2](./weeks/week2/)

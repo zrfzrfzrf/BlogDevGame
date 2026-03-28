@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache  # 添加这一行
 
-title: My Dev Blog
+title: RuiFeng's Dev Blog
 description: Game Design Course Blog
 
 collections:

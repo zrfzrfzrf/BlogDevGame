@@ -7,7 +7,7 @@ plugins:
 title: My Dev Blog
 description: Game Design Course Blog
 
-# 开启 collections（关键！）
 collections:
   weeks:
     output: true
+    permalink: /weeks/:path/

@@ -1,5 +1,5 @@
 ---
-title: "Week 4 – Concept Development"
+title: "Week 4 – marketing"
 layout: single
 sidebar:
   nav: "main"

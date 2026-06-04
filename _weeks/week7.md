@@ -1,5 +1,5 @@
 ---
-title: "Week 6 – Boss fight continues"
+title: "Week 7 – Boss fight development, test, and pre 2"
 layout: single
 sidebar:
   nav: "main"
